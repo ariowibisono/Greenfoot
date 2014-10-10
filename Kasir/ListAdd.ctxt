@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ List()
+comment2.params=input
+comment2.target=void\ Daftar(java.lang.String)
+comment3.params=input
+comment3.target=void\ Jumlah(int)
+comment4.params=input
+comment4.target=void\ Harga(int)
+comment5.params=input
+comment5.target=void\ ResetKata(java.lang.String)
+comment6.params=input
+comment6.target=void\ ResetAngka(int)
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ Tampil()
+comment2.params=input
+comment2.target=void\ Nama(java.lang.String)
+comment3.params=input
+comment3.target=void\ Harga(int)
+comment4.params=input
+comment4.target=void\ Jumlah(int)
+numComments=5
