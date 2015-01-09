@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ tembak()
+comment2.params=
+comment2.target=void\ meledak()
+comment3.params=input
+comment3.target=void\ FastShot(int)
+comment4.params=input
+comment4.target=void\ FastMove(int)
+numComments=5
